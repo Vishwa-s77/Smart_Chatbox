@@ -7,7 +7,7 @@ Users can **register**, **log in**, and view their **individual chat histories**
 
 ## ✨ Features
 
-- 🔐 **User Authentication** with username and password  
+- 🔐 **User Authentication** with username and passwords  
 - 🆕 **User Registration** for new users  
 - 🤖 **AI-powered Conversations** using **Google Gemini 1.5 Pro**  
 - 💾 **Chat History Storage** in MySQL with timestamp tracking  
