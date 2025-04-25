@@ -3,7 +3,7 @@ from datetime import datetime
 import google.generativeai as genai
 
 # 🔐 Set your Gemini API key
-genai.configure(api_key="AIzaSyBX2vxcsq8VQcfbLOHN3JSQZzYRjMG9Cu8")  # Replace with your actual key
+genai.configure(api_key="XXX")  # Replace with your actual key
 
 # 🤖 Get response from Gemini
 def get_bot_response(user_input):
